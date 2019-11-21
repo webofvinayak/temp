@@ -2,4 +2,6 @@ this is first chapter of the story.
 
 line 2 added to the story
 :wq
-jkhfsjkfhsjkfhsdjkfs
+jkhfsjkfhsjkfhsdjkfs\
+
+second line added
